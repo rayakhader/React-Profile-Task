@@ -1,0 +1,38 @@
+.side-bar{
+    border: 1px solid gray;
+}
+.button-cont{
+    padding: 10px 30px;
+}
+.post-btn{
+    color: white;
+    background-color: #1d9bf0;
+    padding: 10px 50px;
+    border-radius: 10px;
+    border: none;
+    width: 100%;
+    font-weight: bold;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    padding:10px;
+    margin: 10px;
+}
+.menu-item{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+.personal-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px
+}
+p{
+    color: lightgray;
+}
