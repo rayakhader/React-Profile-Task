@@ -1,0 +1,14 @@
+.profile-bio {
+    padding: 100px 20px 20px 20px;
+  }
+  
+  .bio-info,
+  .bio-stats {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .bio-info div,
+  .bio-stats span {
+    padding: 10px 0;
+  }

@@ -1,0 +1,17 @@
+.suggestions {
+    border-top: 1px solid lightgray;
+    padding: 20px;
+  }
+  .suggestions .follow-button {
+    padding: 10px 15px;
+    background-color: transparent;
+    border: 1px solid lightgray;
+    color: lightgray;
+    font-weight: bold;
+    border-radius: 20px;
+  }
+  .follow-note {
+    padding: 0 50px;
+    margin: 0;
+  }
+  

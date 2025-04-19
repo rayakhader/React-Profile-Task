@@ -1,0 +1,11 @@
+.profile-tabs {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    border-bottom: 1px solid lightgray;
+    padding: 0 20px;
+  }
+  
+  .profile-tabs li {
+    padding: 0 20px;
+  }

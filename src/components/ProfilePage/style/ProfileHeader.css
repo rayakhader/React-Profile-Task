@@ -1,0 +1,14 @@
+.profile-header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background-color: #000;
+    padding: 20px 16px;
+    color: white;
+  }
+  
+  .profile-title h1,
+  .profile-title p {
+    margin: 0;
+  }
+  
