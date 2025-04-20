@@ -1,0 +1,17 @@
+.like-item{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.like-profile{
+  display: flex;
+  gap: 10px;
+}
+.like-item .follow-button{
+  padding: 10px 15px;
+  background-color: white;
+  border: 1px solid lightgray;
+  color: black;
+  font-weight: bold;
+  border-radius: 20px;
+}

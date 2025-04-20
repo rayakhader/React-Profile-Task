@@ -1,0 +1,13 @@
+.trend .trend-header{
+  display:flex;
+  justify-content: space-between;
+  }
+.trend .trend-hash{
+  color: white;
+  font-weight: bold;
+}
+.trend .trend-arabic-text{
+  text-align:right;
+  color: white;
+  direction:rtl
+}
