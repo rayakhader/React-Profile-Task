@@ -1,0 +1,26 @@
+.post-item {
+    padding: 20px;
+  }
+  
+  .post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .post-user {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .user-avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+  }
+  
+  .post-footer {
+    display: flex;
+    justify-content: space-around;
+  }

@@ -1,0 +1,17 @@
+.suggestion-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  .suggestion-profile {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .tailwind-bg {
+    background-color: white;
+  }
+  .profile-handle {
+    color: lightgray;
+  }
